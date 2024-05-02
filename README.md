@@ -7,7 +7,7 @@ Lhijacking-finder is a python tool designed to discover [broken link hijaction](
 
 * Twitter
 * Youtube 
-* Instagram
+* Instag
 * Facebook
 * Snapchat
 * Telegram
